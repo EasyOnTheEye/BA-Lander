@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "manifest_type": "image-assets",
+  "project": "boris-anyama-professional-profile",
+  "last_reviewed": "2026-07-26",
+  "defaults": {
+    "rights_status": "needs-confirmation",
+    "source_status": "project-provided",
+    "recommended_delivery_formats": [
+      "webp",
+      "avif"
+    ],
+    "accessibility_guidance": "Use the provided alt_text when the image conveys meaningful information. Use an empty alt attribute for purely decorative copies."
+  },
+  "assets": [
+    {
+      "id": "boris-anyama-speaking-nfl-to-medicine",
+      "filename": "boris-anyama-speaking-nfl-to-medicine.png",
+      "format": "png",
+      "width": 1746,
+      "height": 1600,
+      "file_size_bytes": 4463967,
+      "orientation": "landscape",
+      "roles": [
+        "speaking",
+        "homepage-supporting",
+        "professional-story"
+      ],
+      "best_use": "Feature image for speaking and the football-to-medicine narrative. Crop carefully because the presentation screen occupies much of the frame.",
+      "alt_text": "Boris Anyama speaking about the transition from the NFL to medicine.",
+      "caption": "Boris Anyama presenting on the transition from football to medicine.",
+      "tags": [
+        "Boris Anyama",
+        "speaking",
+        "football-to-medicine",
+        "medicine",
+        "professional-development"
+      ],
+      "focal_point": "right-center",
+      "rights_status": "needs-confirmation",
+      "optimization": {
+        "recommended_max_width": 1600,
+        "priority": "high"
+      }
+    },
+    {
+      "id": "boris-anyama-nfl-to-medicine-panel",
+      "filename": "boris-anyama-nfl-to-medicine-panel.jpeg",
+      "format": "jpeg",
+      "width": 4032,
+      "height": 3024,
+      "file_size_bytes": 2748414,
+      "orientation": "landscape",
+      "roles": [
+        "speaking",
+        "panel",
+        "education"
+      ],
+      "best_use": "Supporting image for speaking, mentorship, or education content. Best used near a panel description rather than as the homepage hero.",
+      "alt_text": "Boris Anyama participating in a panel discussion about the transition from football to medicine.",
+      "caption": "Boris Anyama participating in a panel discussion.",
+      "tags": [
+        "Boris Anyama",
+        "panel",
+        "speaking",
+        "mentorship",
+        "education"
+      ],
+      "focal_point": "center",
+      "rights_status": "needs-confirmation",
+      "privacy_review": "Confirm permission for identifiable panel participants before publication.",
+      "optimization": {
+        "recommended_max_width": 1600,
+        "priority": "medium"
+      }
+    },
+    {
+      "id": "boris-anyama-operating-room",
+      "filename": "boris-anyama-operating-room.jpeg",
+      "format": "jpeg",
+      "width": 4032,
+      "height": 3024,
+      "file_size_bytes": 2072746,
+      "orientation": "landscape",
+      "roles": [
+        "clinical",
+        "anesthesiology",
+        "clinical-perspective"
+      ],
+      "best_use": "Clinical perspective section illustrating active anesthesiology work. Do not use as the homepage hero.",
+      "alt_text": "Boris Anyama working in an operating room as an anesthesiology physician.",
+      "caption": "Boris Anyama in an operating-room setting.",
+      "tags": [
+        "Boris Anyama",
+        "anesthesiology",
+        "operating room",
+        "clinical care",
+        "medicine"
+      ],
+      "focal_point": "center",
+      "rights_status": "needs-confirmation",
+      "privacy_review": "Confirm institutional approval and verify that no patient-identifying information is visible.",
+      "optimization": {
+        "recommended_max_width": 1600,
+        "priority": "medium"
+      }
+    },
+    {
+      "id": "boris-anyama-operating-room-portrait",
+      "filename": "boris-anyama-operating-room-portrait.png",
+      "format": "png",
+      "width": 750,
+      "height": 1334,
+      "file_size_bytes": 3062178,
+      "orientation": "portrait",
+      "roles": [
+        "clinical",
+        "portrait",
+        "mobile-supporting"
+      ],
+      "best_use": "Secondary clinical portrait for a biography or mobile-focused layout. It is not large enough for a full-width desktop feature.",
+      "alt_text": "Boris Anyama in clinical attire inside an operating room.",
+      "caption": "Boris Anyama in clinical attire.",
+      "tags": [
+        "Boris Anyama",
+        "clinical portrait",
+        "anesthesiology",
+        "operating room",
+        "medicine"
+      ],
+      "focal_point": "center",
+      "rights_status": "needs-confirmation",
+      "technical_review": "Confirm final browser orientation before publication.",
+      "optimization": {
+        "recommended_max_width": 750,
+        "priority": "low"
+      }
+    },
+    {
+      "id": "boris-anyama-professional-headshot",
+      "filename": "boris-anyama-professional-headshot.jpg",
+      "format": "jpeg",
+      "width": 144,
+      "height": 216,
+      "file_size_bytes": 18088,
+      "orientation": "portrait",
+      "roles": [
+        "headshot",
+        "profile-thumbnail",
+        "contact"
+      ],
+      "best_use": "Small profile card, contact section, or thumbnail only. Replace with a higher-resolution version for prominent use.",
+      "alt_text": "Professional headshot of Boris Anyama, MD.",
+      "caption": "Boris Anyama, MD.",
+      "tags": [
+        "Boris Anyama",
+        "professional headshot",
+        "physician",
+        "profile"
+      ],
+      "focal_point": "center",
+      "rights_status": "needs-confirmation",
+      "technical_review": "Request a high-resolution replacement before using at larger than thumbnail size.",
+      "optimization": {
+        "recommended_max_width": 144,
+        "priority": "high-replacement-needed"
+      }
+    },
+    {
+      "id": "boris-anyama-speaking-conference-audience",
+      "filename": "boris-anyama-speaking-conference-audience.png",
+      "format": "png",
+      "width": 1756,
+      "height": 1256,
+      "file_size_bytes": 3784285,
+      "orientation": "landscape",
+      "roles": [
+        "speaking",
+        "audience",
+        "community",
+        "education"
+      ],
+      "best_use": "Education, speaking, or community section showing audience engagement and event participation.",
+      "alt_text": "Boris Anyama with conference attendees following a presentation.",
+      "caption": "Boris Anyama with conference attendees after a presentation.",
+      "tags": [
+        "Boris Anyama",
+        "conference",
+        "speaking",
+        "audience",
+        "education",
+        "community"
+      ],
+      "focal_point": "center",
+      "rights_status": "needs-confirmation",
+      "privacy_review": "Confirm event-photo permission for identifiable attendees before publication.",
+      "optimization": {
+        "recommended_max_width": 1600,
+        "priority": "medium"
+      }
+    },
+    {
+      "id": "boris-anyama-amec-match-panel",
+      "filename": "boris-anyama-amec-match-panel.jpeg",
+      "format": "jpeg",
+      "width": 4032,
+      "height": 3024,
+      "file_size_bytes": 2667358,
+      "orientation": "landscape",
+      "roles": [
+        "speaking",
+        "panel",
+        "mentorship",
+        "medical-education"
+      ],
+      "best_use": "Teaching, mentorship, and conference section image demonstrating participation in medical education.",
+      "alt_text": "Boris Anyama participating in a medical education panel at an annual conference.",
+      "caption": "Boris Anyama participating in a medical education panel.",
+      "tags": [
+        "Boris Anyama",
+        "medical education",
+        "conference",
+        "panel",
+        "mentorship",
+        "residency"
+      ],
+      "focal_point": "center-left",
+      "rights_status": "needs-confirmation",
+      "privacy_review": "Confirm permission for identifiable panel participants and event branding before publication.",
+      "optimization": {
+        "recommended_max_width": 1600,
+        "priority": "medium"
+      }
+    },
+    {
+      "id": "boris-anyama-physician-athlete-hero",
+      "filename": "boris-anyama-physician-athlete-hero.png",
+      "format": "png",
+      "width": 1080,
+      "height": 1080,
+      "file_size_bytes": 1557851,
+      "orientation": "square",
+      "has_transparency": true,
+      "roles": [
+        "homepage-hero",
+        "social-preview",
+        "professional-story",
+        "athletic-background"
+      ],
+      "best_use": "Primary homepage hero and social-preview image connecting Boris Anyama's physician identity with his football background.",
+      "alt_text": "Portrait of Boris Anyama, MD layered with monochrome football imagery.",
+      "caption": "Boris Anyama, MD: anesthesiologist, interventional pain physician, and former football player.",
+      "tags": [
+        "Boris Anyama",
+        "physician",
+        "anesthesiologist",
+        "interventional pain medicine",
+        "football",
+        "athletic background",
+        "professional profile"
+      ],
+      "focal_point": "center",
+      "rights_status": "needs-confirmation",
+      "technical_review": "Confirm permission for all football imagery and any visible team or league marks before publication.",
+      "optimization": {
+        "recommended_max_width": 1080,
+        "priority": "high",
+        "recommended_delivery_formats": [
+          "webp",
+          "avif",
+          "png"
+        ]
+      }
+    }
+  ]
+}
